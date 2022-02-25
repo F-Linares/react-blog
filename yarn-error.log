@@ -1,0 +1,33 @@
+Arguments: 
+  /usr/local/Cellar/node/17.0.1/bin/node /usr/local/bin/yarn add react-router-dom
+
+PATH: 
+  /Users/fernandolinares/.rvm/gems/ruby-3.0.0/bin:/Users/fernandolinares/.rvm/gems/ruby-3.0.0@global/bin:/Users/fernandolinares/.rvm/rubies/ruby-3.0.0/bin:/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:/Users/fernandolinares/.gem/ruby/X.X.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/fernandolinares/.rvm/gems/ruby-3.0.0/bin:/Users/fernandolinares/.rvm/gems/ruby-3.0.0@global/bin:/Users/fernandolinares/.rvm/rubies/ruby-3.0.0/bin:/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:/Users/fernandolinares/.gem/ruby/X.X.0/bin:/Users/fernandolinares/.rvm/bin:/Users/fernandolinares/.rvm/bin
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  17.0.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+
+npm manifest: 
+  {
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-router-dom": "^6.2.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
