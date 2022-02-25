@@ -24,11 +24,11 @@ export default function Settings() {
                     />
                 </div>
                 <label>Username</label>
-                <input type="text" placeholder="Safak"/>
+                <input type="text" placeholder="Fernando"/>
                 <label>Email</label>
-                <input type="email" placeholder="safak@gmail.com"/>
+                <input type="email" placeholder="fernando.linares1991@gmail.com"/>
                 <label>Password</label>
-                <input type="text" placeholder="Safak"/>
+                <input type="text" placeholder="Fernando"/>
                 <button className="settingsSubmit">
                     Update
                 </button>
